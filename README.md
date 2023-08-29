@@ -1,4 +1,4 @@
-Plataforma de Comunicação e Artigos Científicos de Saúde Mental :brain::heart:
+## Plataforma de Comunicação e Artigos Científicos de Saúde Mental :brain::heart:
 Bem-vindo(a) ao repositório da nossa plataforma de comunicação e disponibilização de artigos científicos relacionados à saúde mental! Este projeto de conclusão de curso tem como objetivo criar um espaço virtual seguro para a disseminação de informações relevantes sobre saúde mental.
 
 Visão Geral do Projeto
