@@ -30,6 +30,6 @@ Gostaríamos de expressar nossa gratidão a todos que contribuíram para este pr
 
 **Equipe do Projeto - Itard** :star2:
 
-## Vídeo Demonstrativo da plataforma 
+##Vídeo Demonstrativo da Plataforma
 
-https://youtu.be/ySOoztFpUIY?si=F9QhYhanM8EmthwP
+Confira nosso vídeo demonstrativo aqui para ter uma visão mais detalhada da plataforma ITARD em ação.
