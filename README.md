@@ -32,4 +32,4 @@ Gostaríamos de expressar nossa gratidão a todos que contribuíram para este pr
 
 ## Vídeo Demonstrativo da Plataforma
 
-Confira nosso vídeo demonstrativo aqui para ter uma visão mais detalhada da plataforma ITARD em ação.
+Confira nosso vídeo demonstrativo [aqui](https://youtu.be/eRITDjzOCMc?si=hVcD0MztoQp9CRYT) para ter uma visão mais detalhada da plataforma ITARD em ação.
