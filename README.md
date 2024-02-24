@@ -29,3 +29,7 @@ Embora atualmente não tenhamos um sistema de chat privado entre usuários, plan
 Gostaríamos de expressar nossa gratidão a todos que contribuíram para este projeto e também à nossa orientação acadêmica. Acreditamos que esta plataforma possa ser um recurso valioso para a comunidade interessada em saúde mental.
 
 **Equipe do Projeto - Itard** :star2:
+
+## Vídeo Demonstrativo da plataforma 
+
+https://youtu.be/ySOoztFpUIY?si=F9QhYhanM8EmthwP
